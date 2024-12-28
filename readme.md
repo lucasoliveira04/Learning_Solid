@@ -12,3 +12,9 @@ SOLID é um acrônimo que representa cinco principios de design de software:
 - **D** - Dependency Inversion Principle (Princípio da Inversão de Dependência)
 
 Esses princípios visam melhorar a estrutura do código, tornando-o mais modular, reutilizável e fácil de modificar.
+
+### Single Responsibility Principle (Princípio da Responsabilidade Única)
+O Princípio da Responsabilidade Única afirma que uma classe deve ter apenas uma razão para mudar, ou seja, deve ter apenas uma responsabilidade. 
+Isso significa que uma classe deve ter um único propósito e não deve ser responsável por várias tarefas diferentes.
+
+[Exemplo de aplicação do SRP em Java]()
